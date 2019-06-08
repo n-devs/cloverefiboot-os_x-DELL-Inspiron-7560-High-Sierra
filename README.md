@@ -3,7 +3,7 @@
 # Specifications
 
 
-Code:
+Code:<br/>
 <code>CPU: Intel Core i7 7500U</code><br/>
 <code>RAM: 8GB DDR4 x 2</code><br/>
 <code>IGPU: Intel HD Graphics 620</code><br/>
